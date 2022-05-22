@@ -1,0 +1,64 @@
+---
+title: "Presentacion"
+author: "Arturo S. Lewinger"
+date: "22/5/2022"
+output: html_document
+---
+---
+title: "POD_presentacion"
+author: "Arturo S. Lewinger"
+date: "22/5/2022"
+output: html_document
+---
+
+#### [Materiales clases teóricas](teorica)
+
+*Primer parcial: BLA*
+
+## [Trabajos Prácticos](trabajos_practicos)
+
+### [Ejercicios modelo lineal](ejercicios_modelo_lineal)
+
+# Materiales para las clases prÃ¡cticas:
+
+
+Ejectuar la siguiente linea de cÃ³digo en R
+```r
+usethis::use_course('https://github.com/artulewin/UCEMA-POD/archive/master.zip')
+```
+
+O alternativamente descargar el siguiente archivo:
+
+[![](img/Download.png)](https://github.com/artulewin/UCEMA-POD/archive/master.zip)
+
+- ### [Taller Desarrollo de paquetes](pkg-dev/desarrollo_paquetes.nb.html)
+
+### Clase 1: 07-09
+
+- [IntroducciÃ³n al entorno R.](clase 1/Clase 1- Introduccion.nb.html)
+- [Ejercicios intro.](clase 1/Ejercicios - Clase 1.R)
+- [ProgramaciÃ³n funcional.](clase 1/Clase_1-Programacion funcional.nb)
+- [Ejercicios programaciÃ³n funcional.](clase 1/Ejercicios Clase 1_Programacion funcional.R)
+
+### Clase 2: 14-09
+
+- [Tidyverse y grÃ¡ficos](clase 2/Clase 2- Tidyverse.nb.html)
+- [resueltos](clase 2/resueltos)
+
+### Clase 3: 28-09
+
+
+- [PrÃ¡ctica PURRR](clase 3/programacion_funcional)
+- [CorrelaciÃ³n](clase 3/correlacion.nb.html)
+- [Shiny apps](clase 3/shiny)
+
+
+### Clase 4: 5-10
+
+- [RegresiÃ³n Lineal Simple (primera parte)](clase 4/modelo_basico.nb.html)
+
+### Clase 5: 19-10
+
+- [RegresiÃ³n Lineal Simple (segunda parte)](clase 5/modelo_basico.nb.html)
+- [Bootstrap](clase 5/ejercicio_bootstrap.nb.html)
+
