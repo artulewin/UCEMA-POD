@@ -1,55 +1,63 @@
 
-#### [Materiales clases te髍icas](teorica)
+---
+title: "UCEMA - Programaci髇 Orientada a Datos"
+author: "Profesores: Federico Moreno / Arturo S. Lewinger"
+date: "Segundo semestre - 2022"
+output: html_document
+---
 
-*Primer parcial: 9-11*
+*Primer parcial: TBD*
 
-## [Trabajos Pr谩cticos](trabajos_practicos)
+## [Trabajos Pr醕ticos](trabajos_practicos)
 
-### [Ejercicios modelo lineal](ejercicios_modelo_lineal)
+### [TP1: Ejercicios modelo lineal](ejercicios_modelo_lineal)
 
-# Materiales para las clases pr谩cticas:
+# Materiales para las clases pr醕ticas:
 
 
-Ejectuar la siguiente linea de c贸digo en R
+Ejectuar la siguiente linea de c骴igo en R
 ```r
-usethis::use_course('https://github.com/DiegoKoz/EEA2019/archive/master.zip')
+usethis::use_course('https://github.com/artulewin/UCEMA-POD/archive/master.zip')
 ```
 
 O alternativamente descargar el siguiente archivo:
 
-[![](img/Download.png)](https://github.com/DiegoKoz/EEA2019/archive/master.zip)
+[![](img/Download.png)](https://github.com/artulewin/UCEMA-POD/archive/master.zip)
 
 - ### [Taller Desarrollo de paquetes](pkg-dev/desarrollo_paquetes.nb.html)
 
-### Clase 1: 07-09
+### Clase Presentaci髇: agosto XX
 
-- [Introducci贸n al entorno R.](clase 1/Clase 1- Introduccion.nb.html)
+- [Introducci髇 al entorno R.](clase 1/Clase 1- Introduccion.nb.html)
 - [Ejercicios intro.](clase 1/Ejercicios - Clase 1.R)
-- [Programaci贸n funcional.](clase 1/Clase_1-Programacion funcional.nb)
-- [Ejercicios programaci贸n funcional.](clase 1/Ejercicios Clase 1_Programacion funcional.R)
+- [Programaci髇 funcional.](clase 1/Clase_1-Programacion funcional.nb)
+- [Ejercicios programaci髇 funcional.](clase 1/Ejercicios Clase 1_Programacion funcional.R)
+
+### Clase 1: agosto XX
+
+- [Introducci髇 al entorno R.](clase 1/Clase 1- Introduccion.nb.html)
+- [Ejercicios intro.](clase 1/Ejercicios - Clase 1.R)
+- [Programaci髇 funcional.](clase 1/Clase_1-Programacion funcional.nb)
+- [Ejercicios programaci髇 funcional.](clase 1/Ejercicios Clase 1_Programacion funcional.R)
 
 ### Clase 2: 14-09
 
-- [Tidyverse y gr谩ficos](clase 2/Clase 2- Tidyverse.nb.html)
+- [Tidyverse y gr醘icos](clase 2/Clase 2- Tidyverse.nb.html)
 - [resueltos](clase 2/resueltos)
 
 ### Clase 3: 28-09
 
 
-- [Pr谩ctica PURRR](clase 3/programacion_funcional)
-- [Correlaci贸n](clase 3/correlacion.nb.html)
+- [Pr醕tica PURRR](clase 3/programacion_funcional)
+- [Correlaci髇](clase 3/correlacion.nb.html)
 - [Shiny apps](clase 3/shiny)
 
 
 ### Clase 4: 5-10
 
-- [Regresi贸n Lineal Simple (primera parte)](clase 4/modelo_basico.nb.html)
+- [Regresi髇 Lineal Simple (primera parte)](clase 4/modelo_basico.nb.html)
 
 ### Clase 5: 19-10
 
-- [Regresi贸n Lineal Simple (segunda parte)](clase 5/modelo_basico.nb.html)
+- [Regresi髇 Lineal Simple (segunda parte)](clase 5/modelo_basico.nb.html)
 - [Bootstrap](clase 5/ejercicio_bootstrap.nb.html)
-
-
-
-[Preguntas parcial](https://images.mentalfloss.com/sites/default/files/styles/mf_image_16x9/public/red-nose-clown-hed.jpg?itok=ZX1GxhNK&resize=1100x1100)
