@@ -1,10 +1,7 @@
 
----
-title: "UCEMA - Programación Orientada a Datos"
-author: "Profesores: Federico Moreno / Arturo S. Lewinger"
-date: "Segundo semestre - 2022"
-output: html_document
----
+# "UCEMA - Programación Orientada a Datos"
+## "Profesores: Federico Moreno / Arturo S. Lewinger"
+## "Segundo semestre - 2022"
 
 *Primer parcial: TBD*
 
