@@ -1,17 +1,17 @@
 ---
 title: "UCEMA - Programación Orientada a Datos"
-author: "Profesores: Moreno Federico / Arturo S. Lewinger"
+author: "Profesores: Federico Moreno / Arturo S. Lewinger"
 date: "Segundo semestre - 2022"
 output: html_document
 ---
 
-#### [Materiales clases teóricas](teorica)
+
 
 *Primer parcial: TBD*
 
 ## [Trabajos Prácticos](trabajos_practicos)
 
-### [Ejercicios modelo lineal](ejercicios_modelo_lineal)
+### [TP1: Ejercicios modelo lineal](ejercicios_modelo_lineal)
 
 # Materiales para las clases prácticas:
 
@@ -27,7 +27,14 @@ O alternativamente descargar el siguiente archivo:
 
 - ### [Taller Desarrollo de paquetes](pkg-dev/desarrollo_paquetes.nb.html)
 
-### Clase 1: 07-09
+### Clase Presentación: agosto XX
+
+- [Introducción al entorno R.](clase 1/Clase 1- Introduccion.nb.html)
+- [Ejercicios intro.](clase 1/Ejercicios - Clase 1.R)
+- [Programación funcional.](clase 1/Clase_1-Programacion funcional.nb)
+- [Ejercicios programación funcional.](clase 1/Ejercicios Clase 1_Programacion funcional.R)
+
+### Clase 1: agosto XX
 
 - [Introducción al entorno R.](clase 1/Clase 1- Introduccion.nb.html)
 - [Ejercicios intro.](clase 1/Ejercicios - Clase 1.R)
