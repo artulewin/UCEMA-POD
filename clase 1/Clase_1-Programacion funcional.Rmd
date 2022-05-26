@@ -1,8 +1,11 @@
 ---
-title: "Clase 1 - Programacion Funcional"
-author: "Diego Kozlowski y Juan Barriola"
-date: ""
+title: "POD - Clase 1 - Programacion Funcional"
+author: "Federico Moreno y Arturo Lewinger (en base a Diego Kozlowski y Juan Barriola)"
+date: ''
 output:
+  html_document:
+    toc: yes
+    df_print: paged
   html_notebook:
     toc: yes
     toc_float: yes
